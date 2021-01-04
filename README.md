@@ -2,10 +2,10 @@
 
 install pygame by this command
 - pip install pygame
-if not work use
+or
 - pip3 install pygame
 
 then run the run.py using
 - python run.py
-if not work use
+or
 - python3 run.py
